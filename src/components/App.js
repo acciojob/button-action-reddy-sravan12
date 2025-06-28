@@ -1,5 +1,5 @@
 import React, { useState } from "react";
-import "./App.css"; // Assuming your styles are here
+import "../styles/App.css"; // Assuming your styles are here
 
 function App() {
   const [visible, setVisible] = useState(false);
